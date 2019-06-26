@@ -1,10 +1,10 @@
 # Simple react app
 - install the node js [nodejs](https://nodejs.org/en/)
 - Clone the project 
-- go to the project directory
 - We need to install all the npm packages
-- Ex: C:\Users\user\Desktop\app> npm install 
-- In the project directory, you can run:<br>
+- go to the project directory 
+   - Ex: C:\Users\user\Desktop\app> npm install 
+   - In the project directory, you can run:<br>
   ### `npm start`
     
 Runs the app in the development mode.<br>
