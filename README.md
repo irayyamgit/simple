@@ -10,7 +10,7 @@
 Then an app will run in the development mode.<br>
    
    
-   This is a simple todo application using Reactjs where we can add the items, edit, delete the item and you can clear all the items in the item list. 
+   This is a todo application using Reactjs where we can add the items, edit, delete the item and you can clear all the items in the item list. 
     
     
  
