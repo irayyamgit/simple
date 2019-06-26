@@ -1,3 +1,24 @@
+#Simple react app
+- first install the reactjs in your system [Create React App](https://github.com/facebook/create-react-app).
+- Clone the project 
+- go to the project directory
+- We need to install all the npm packages
+   - Ex: C:\Users\user\Desktop\app> npm install 
+   - In the project directory, you can run:
+      ### `npm start`
+    
+    Runs the app in the development mode.<br>
+   
+    
+    
+   Test the app
+   Open [https://staticreacttodoapp.netlify.com/](https://staticreacttodoapp.netlify.com/) to view it in the browser.
+   
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
