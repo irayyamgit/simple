@@ -9,8 +9,11 @@
     
 Runs the app in the development mode.<br>
    
+   
+   This is a simple todo application using Reactjs where we can add the items, edit or updatd, delete the item and you can clear all the    items in the item list. 
     
-   ## Test the app online
+    
+   ## Test the app
    [https://staticreacttodoapp.netlify.com/](https://staticreacttodoapp.netlify.com/) 
    
 
