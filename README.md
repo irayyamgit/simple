@@ -4,13 +4,13 @@
 - go to the project directory
 - We need to install all the npm packages
 - Ex: C:\Users\user\Desktop\app> npm install 
-- In the project directory, you can run:
-      ### `npm start`
+- In the project directory, you can run:<br>
+  ### `npm start`
     
 Runs the app in the development mode.<br>
    
     
-   Test the app
+   ## Test the app
    Open [https://staticreacttodoapp.netlify.com/](https://staticreacttodoapp.netlify.com/) to view it in the browser.
    
 
