@@ -10,13 +10,11 @@
 Runs the app in the development mode.<br>
    
     
-   ## Test the app
-   Open [https://staticreacttodoapp.netlify.com/](https://staticreacttodoapp.netlify.com/) to view it in the browser.
+   ## Test the app online
+   [https://staticreacttodoapp.netlify.com/](https://staticreacttodoapp.netlify.com/) 
    
 
-# To create the new react app follow the instructions
-
-
+# To create the new react app follow the instructions.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
