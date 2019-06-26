@@ -3,11 +3,11 @@
 - Clone the project 
 - go to the project directory
 - We need to install all the npm packages
-   - Ex: C:\Users\user\Desktop\app> npm install 
-   - In the project directory, you can run:
+- Ex: C:\Users\user\Desktop\app> npm install 
+- In the project directory, you can run:
       ### `npm start`
     
-    Runs the app in the development mode.<br>
+Runs the app in the development mode.<br>
    
     
    Test the app
