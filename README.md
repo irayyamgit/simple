@@ -4,10 +4,10 @@
 - We need to install all the npm packages
 - go to the project directory 
    - Ex: C:\Users\user\Desktop\app> npm install 
-   - In the project directory, you can run:<br>
- ### `npm start`
-    
-Runs the app in the development mode.<br>
+   - In the project directory, you can run: 
+   C:\Users\user\Desktop\app> npm start
+       
+Then an app will run in the development mode.<br>
    
    
    This is a simple todo application using Reactjs where we can add the items, edit or updatd, delete the item and you can clear all the    items in the item list. 
