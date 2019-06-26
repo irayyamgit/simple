@@ -1,4 +1,4 @@
-#Simple react app
+# Simple react app
 - first install the reactjs in your system [Create React App](https://github.com/facebook/create-react-app).
 - Clone the project 
 - go to the project directory
@@ -10,12 +10,11 @@
     Runs the app in the development mode.<br>
    
     
-    
    Test the app
    Open [https://staticreacttodoapp.netlify.com/](https://staticreacttodoapp.netlify.com/) to view it in the browser.
    
 
-
+# To create the new react app follow the instructions
 
 
 
