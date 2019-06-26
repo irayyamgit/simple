@@ -5,7 +5,7 @@
 - go to the project directory 
    - Ex: C:\Users\user\Desktop\app> npm install 
    - In the project directory, you can run:<br>
-  ### `npm start`
+ ### `npm start`
     
 Runs the app in the development mode.<br>
    
