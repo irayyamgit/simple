@@ -1,5 +1,5 @@
 # Simple react app
-- install the node js [nodejs](https://nodejs.org/en/)
+- install the [nodejs](https://nodejs.org/en/)
 - Clone the project 
 - We need to install all the npm packages
 - go to the project directory 
