@@ -1,5 +1,5 @@
 # Simple react app
-- first install the reactjs in your system [Create React App](https://github.com/facebook/create-react-app).
+- install the node js [nodejs](https://nodejs.org/en/)
 - Clone the project 
 - go to the project directory
 - We need to install all the npm packages
